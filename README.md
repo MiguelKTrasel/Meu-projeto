@@ -38,6 +38,6 @@ As imagens usadas no site podem ser encontradas no diretório "imagens". Essas i
 ## Páginas Adicionais
 O código HTML em `index.html` faz referência a outras páginas, como "noticia2.html". Você pode criar essas páginas adicionais e vinculá-las à página principal para expandir seu site.
 
-Sinta-se à vontade para explorar e modificar este código para criar seu próprio site de notícias históricas. Se tiver alguma dúvida ou precisar de ajuda, entre em contato conosco em [contato@seusite.com](mailto:contato@seusite.com).
+Sinta-se à vontade para explorar e modificar este código para criar seu próprio site de notícias históricas. Se tiver alguma dúvida ou precisar de ajuda, entre em contato conosco em [contato@seusite.com](mailto:miguelkemptraselestudos@gmail.com).
 
 **&copy; 2023 Notícias de história e da história**
