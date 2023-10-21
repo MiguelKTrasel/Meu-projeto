@@ -1,0 +1,57 @@
+/* Estilo para o corpo da página */
+body {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #0074D9; /* Cor azul */
+    color: #fff; /* Texto branco */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo para links de navegação no cabeçalho */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* Texto branco para links */
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    color: #0074D9; /* Cor azul */
+}
+
+/* Estilo para artigos de notícias */
+article {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff; /* Fundo branco */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #0074D9; /* Cor azul */
+    color: #fff; /* Texto branco */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilo para links no rodapé */
+footer a {
+    color: #fff; /* Texto branco para links no rodapé */
+}
+/* Estilo para a imagem ao lado do título na página inicial */

@@ -1,0 +1,67 @@
+/* Estilos gerais */
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #30da5a;
+    color: #fdfdfd;
+    text-align: center;
+    padding: 2rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+h1, h2 {
+    color: #000000;
+}
+
+p {
+    color: #333;
+}
+
+/* Estilos para notícias */
+.noticia {
+    border: 1px solid #c55858;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #66dd62;
+    text-align: justify;
+}
+
+.noticia h3 {
+    color: #000000;
+}
+
+.noticia a {
+    color: #428bca;
+}
+
+.noticia a:hover {
+    text-decoration: underline;
+}
+
+/* Rodapé */
+footer {
+    background-color: #38e246;
+    color: #000000;
+    text-align: center;
+    padding: 1rem;
+}
+.container {
+  display: flex; /* Isso permite que a imagem e o texto fiquem lado a lado */
+  align-items: center; /* Isso alinha verticalmente a imagem e o texto */
+}
+
+img {
+  max-width: 60%; /* Limita a largura da imagem para evitar que ela fique maior do que o contêiner */
+}
+
+p {
+  margin-left: 10px; /* Isso cria um espaço entre a imagem e o texto */
+}

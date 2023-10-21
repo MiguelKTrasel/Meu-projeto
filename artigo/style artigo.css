@@ -1,0 +1,53 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+/* Estilo para o cabeçalho do artigo */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para o título do artigo */
+h1 {
+    font-size: 36px;
+}
+
+/* Estilo para os parágrafos de texto no artigo */
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para as imagens no artigo */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilo para links no artigo */
+a {
+    color: #0074D9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para a seção de rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
