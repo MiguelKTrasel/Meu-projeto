@@ -3,12 +3,13 @@ body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-image: url(https://www.infoescola.com/wp-content/uploads/2009/05/palestina_1249185553.jpg);
+
 }
 
 header {
     background-color: #30da5a;
-    color: #fdfdfd;
+    color: #ffffff;
     text-align: center;
     padding: 2rem;
 }
@@ -65,3 +66,5 @@ img {
 p {
   margin-left: 10px; /* Isso cria um espaço entre a imagem e o texto */
 }
+
+  
